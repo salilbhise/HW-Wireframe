@@ -76,8 +76,12 @@ section {
     background: #ebebeb;
   }
 
+  #right {
+      float: right;
+  }
+
   #wrapper {
-      float: left;
+      display: inline-block;
   }
 
   footer {

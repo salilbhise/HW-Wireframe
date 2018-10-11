@@ -20,7 +20,7 @@ Please submit the link to the Github Repository!
 
 4. Make your initial Git commit and push it to GitHub.
 - git add .
-- git commit -m "<COMMENT>"
+- git commit -m "COMMENT"
 - git push origin master
 - If this process was done correctly, you should see these two files appear in your repository. This will be your initial test to confirm that you're hooked into GitHub.
 
@@ -30,5 +30,5 @@ Please submit the link to the Github Repository!
 
 6. When you finish the assignment, commit your changes with Git and push them into your GitHub repo. Remember:
 - git add .
-- git commit -m "<COMMENT>"
+- git commit -m "COMMENT"
 - git push origin master
